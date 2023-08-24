@@ -11,13 +11,18 @@ If all enemies are killed you win or if your health bar drops to zero you die an
 
 
 https://github.com/TJBARBOSSA/clashy-clash/assets/106999424/7c31136e-f6bb-4e4b-8c68-4b2da1f6a88b
+
 Video 1 -  Funcionality
 
 ![TjBarbossa's Clashy Clash 25-08-2023 00_19_10](https://github.com/TJBARBOSSA/clashy-clash/assets/106999424/bc4abfe5-0850-4e09-b054-c25ef27a06ef)
+
 Pic  1 - GameOver after health bar reaches zero
 
 ![TjBarbossa's Clashy Clash 25-08-2023 00_19_23](https://github.com/TJBARBOSSA/clashy-clash/assets/106999424/7740fb37-e96d-4f78-aa5b-9746a7c51ec3)
+
 pic 2- Enemy damaging the mc
 
+W A S D are movement controls and the map was made using tiled application. 
 
+Regards
 
